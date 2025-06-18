@@ -12,3 +12,5 @@ https://app.roboflow.com/muhammad-shoaib-5dlfq/yolov11-ltlpo/1
 ![image alt](https://github.com/shoaibgi/AI-LAB/blob/main/val_batch0_labels.jpg?raw=true)
 # Training & Validation Results
 ![image_alt](https://github.com/shoaibgi/AI-LAB/blob/main/results.png?raw=true)
+# Recall Confidence Curve
+![image_alt](https://github.com/shoaibgi/AI-LAB/blob/main/R_curve.png?raw=true)
